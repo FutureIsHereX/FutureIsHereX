@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FutureIsHereX/FutureIsHereX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=560&lines=The+future+is+here%2C+unevenly+distributed.;I+used+to+write+the+code.;Now+I+describe+the+outcome.;Ship+small.+Ship+often." alt="typing" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 About
+
+Once shipped mobile apps by hand. Now I describe the outcome and let the models do the typing.
+
+- 📱 **Then:** engineer, one screen at a time
+- 🪄 **Now:** conductor — the instruments are models
+- ☁️ Focused on **SaaS**: small products, real users, recurring value
+- 📈 Code isn't the finish line — distribution counts too
+- 🧪 If it can be built and pay for itself, it's fair game
+
+---
+
+### 🧰 Tech I Reach For
+
+**Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Mobile**
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+**Infra & Data**
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+**Models in the Loop**
+<p>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNOS4yMDUgOC42NTh2LTIuMjZjMC0uMTkuMDcyLS4zMzMuMjM4LS40MjhsNC41NDMtMi42MTZjLjYxOS0uMzU3IDEuMzU2LS41MjMgMi4xMTctLjUyMyAyLjg1NCAwIDQuNjYyIDIuMjEyIDQuNjYyIDQuNTY2IDAgLjE2NyAwIC4zNTctLjAyNC41NDdsLTQuNzEtMi43NTlhLjc5Ny43OTcgMCAwMC0uODU2IDBsLTUuOTcgMy40NzN6bTEwLjYwOSA4LjhWMTIuMDZjMC0uMzMzLS4xNDMtLjU3LS40MjktLjczN2wtNS45Ny0zLjQ3MyAxLjk1LTEuMTE4YS40MzMuNDMzIDAgMDEuNDc2IDBsNC41NDMgMi42MTdjMS4zMDkuNzYgMi4xODkgMi4zNzggMi4xODkgMy45NDggMCAxLjgwOC0xLjA3IDMuNDczLTIuNzYgNC4xNjN6TTcuODAyIDEyLjcwM2wtMS45NS0xLjE0MmMtLjE2Ny0uMDk1LS4yMzktLjIzOC0uMjM5LS40MjhWNS44OTljMC0yLjU0NSAxLjk1LTQuNDcyIDQuNTkxLTQuNDcyIDEgMCAxLjkyNy4zMzMgMi43MTIuOTI4TDguMjMgNS4wNjdjLS4yODUuMTY2LS40MjguNDA0LS40MjguNzM3djYuODk4ek0xMiAxNS4xMjhsLTIuNzk1LTEuNTd2LTMuMzNMMTIgOC42NThsMi43OTUgMS41N3YzLjMzTDEyIDE1LjEyOHptMS43OTYgNy4yM2MtMSAwLTEuOTI3LS4zMzItMi43MTItLjkyN2w0LjY4Ni0yLjcxMmMuMjg1LS4xNjYuNDI4LS40MDQuNDI4LS43Mzd2LTYuODk4bDEuOTc0IDEuMTQyYy4xNjcuMDk1LjIzOC4yMzguMjM4LjQyOHY1LjIzM2MwIDIuNTQ1LTEuOTc0IDQuNDcyLTQuNjE0IDQuNDcyem0tNS42MzctNS4zMDNsLTQuNTQ0LTIuNjE3Yy0xLjMwOC0uNzYxLTIuMTg4LTIuMzc4LTIuMTg4LTMuOTQ4QTQuNDgyIDQuNDgyIDAgMDE0LjIxIDYuMzI3djUuNDIzYzAgLjMzMy4xNDMuNTcxLjQyOC43MzhsNS45NDcgMy40NDktMS45NSAxLjExOGEuNDMyLjQzMiAwIDAxLS40NzYgMHptLS4yNjIgMy45Yy0yLjY4OCAwLTQuNjYyLTIuMDIxLTQuNjYyLTQuNTE5IDAtLjE5LjAyNC0uMzguMDQ3LS41N2w0LjY4NiAyLjcxYy4yODYuMTY3LjU3MS4xNjcuODU2IDBsNS45Ny0zLjQ0OHYyLjI2YzAgLjE5LS4wNy4zMzMtLjIzNy40MjhsLTQuNTQzIDIuNjE2Yy0uNjE5LjM1Ny0xLjM1Ni41MjMtMi4xMTcuNTIzem01Ljg5OSAyLjgzYTUuOTQ3IDUuOTQ3IDAgMDA1LjgyNy00Ljc1NkMyMi4yODcgMTguMzM5IDI0IDE1Ljg0IDI0IDEzLjI5NmMwLTEuNjY1LS43MTMtMy4yODItMS45OTgtNC40NDguMTE5LS41LjE5LS45OTkuMTktMS40OTggMC0zLjQwMS0yLjc1OS01Ljk0Ny01Ljk0Ni01Ljk0Ny0uNjQyIDAtMS4yNi4wOTUtMS44OC4zMUE1Ljk2MiA1Ljk2MiAwIDAwMTAuMjA1IDBhNS45NDcgNS45NDcgMCAwMC01LjgyNyA0Ljc1N0MxLjcxMyA1LjQ0NyAwIDcuOTQ1IDAgMTAuNDljMCAxLjY2Ni43MTMgMy4yODMgMS45OTggNC40NDgtLjExOS41LS4xOSAxLS4xOSAxLjQ5OSAwIDMuNDAxIDIuNzU5IDUuOTQ2IDUuOTQ2IDUuOTQ2LjY0MiAwIDEuMjYtLjA5NSAxLjg4LS4zMDlhNS45NiA1Ljk2IDAgMDA0LjE2MiAxLjcxM3oiPjwvcGF0aD48L3N2Zz4%3D" />
+<img src="https://img.shields.io/badge/Z.ai_GLM-2E5BFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BWmhpcHU8L3RpdGxlPjxwYXRoIGQ9Ik0xMS45OTEgMjMuNTAzYS4yNC4yNCAwIDAwLS4yNDQuMjQ4LjI0LjI0IDAgMDAuMjQ0LjI0OS4yNC4yNCAwIDAwLjI0NS0uMjQ5LjI0LjI0IDAgMDAtLjIyLS4yNDdsLS4wMjUtLjAwMXpNOS42NzEgNS4zNjVhMS42OTcgMS42OTcgMCAwMTEuMDk5IDIuMTMybC0uMDcxLjE3Mi0uMDE2LjA0LS4wMTguMDU0Yy0uMDcuMTYtLjEwNC4zMi0uMTA0LjQ5OC0uMDM1LjcxLjQ3IDEuMjc5IDEuMTg2IDEuMzE0aC4zNjZjMS4zMDkuMDUzIDIuMzM4IDEuMTczIDIuMjg2IDIuNTIzLS4wNTIgMS4zMzItMS4xNTIgMi4zOC0yLjQ3OCAyLjMyN2gtLjE3NGMtLjcxNS4wMTgtMS4yNzQuNjQtMS4yMzkgMS4zNjggMCAuMTI0LjAxOC4yMy4wNTMuMzM3LjIwOS4zNzMuNTQuNjU4Ljk2LjguNzUuMjMgMS41MTctLjEyNSAxLjktLjc4MmwuMDE4LS4wMzVjLjQwMi0uNjQgMS4xNy0uOTYgMS45Mi0uNzExLjg1NC4yODQgMS4zNzggMS4yMjYgMS4wOTkgMi4xNjdhMS42NjEgMS42NjEgMCAwMS0yLjA3NyAxLjEwMiAxLjcxMSAxLjcxMSAwIDAxLS45MDctLjcxMWwtLjAxNy0uMDM1Yy0uMi0uMzIzLS40NjMtLjU4LS44NTEtLjcxMWwtLjA1Ni0uMDE4YTEuNjQ2IDEuNjQ2IDAgMDAtMS45NTQuNzQ2IDEuNjYgMS42NiAwIDAxLTEuMDY1Ljc2NCAxLjY3NyAxLjY3NyAwIDAxLTEuOTg5LTEuMjc5Yy0uMjA5LS45MDYuMzMyLTEuODMgMS4yNTctMi4wNDNhMS41MSAxLjUxIDAgMDEuMjk2LS4wMzVoLjAxOGMuNjgtLjA3MSAxLjE1MS0uNjIyIDEuMTE2LTEuMzMzYTEuMzA3IDEuMzA3IDAgMDAtLjIyNy0uNjkzIDIuNTE1IDIuNTE1IDAgMDEtLjM2Ni0xLjQwMyAyLjM5IDIuMzkgMCAwMS4zNjYtMS4yMDhjLjE0LS4xOTUuMjEtLjQ0NC4yMjctLjY5My4wMTgtLjcxLS41MDYtMS4yNjEtMS4xODYtMS4zMzJsLS4wNy0uMDE4YTEuNDMgMS40MyAwIDAxLS4yOTktLjA3bC0uMDUtLjAxOWExLjcgMS43IDAgMDEtMS4wNDctMi4xMTQgMS42OCAxLjY4IDAgMDEyLjA5NC0xLjEwMXptLTUuNTc1IDEwLjExYy4yNi0uMjY0LjYzOS0uMzY3Ljk5NC0uMjcuMzU1LjA5Ni42MzMuMzc5LjcyOC43NC4wOTUuMzYyLS4wMDcuNzQ4LS4yNjcgMS4wMTMtLjQwMi40MS0xLjA1My40MS0xLjQ1NSAwYTEuMDYyIDEuMDYyIDAgMDEwLTEuNDgyem0xNC44NDUtLjI5NGMuMzU5LS4wOS43MzguMDI0Ljk5Mi4yOTcuMjU0LjI3NC4zNDQuNjY1LjIzNyAxLjAyNS0uMTA3LjM2LS4zOTYuNjM0LS43NTYuNzE4LS41NTEuMTI4LTEuMS0uMjItMS4yMy0uNzgxYTEuMDUgMS4wNSAwIDAxLjc1Ny0xLjI2em0tLjA2NC00LjM5Yy4zMTQuMzIuNDkuNzUzLjQ5IDEuMjA2IDAgLjQ1Mi0uMTc2Ljg4Ni0uNDkgMS4yMDYtLjMxNS4zMi0uNzQuNS0xLjE4NS41LS40NDQgMC0uODctLjE4LTEuMTg0LS41YTEuNzI3IDEuNzI3IDAgMDEwLTIuNDEyIDEuNjU0IDEuNjU0IDAgMDEyLjM2OSAwem0tMTEuMjQzLjE2M2MuMzY0LjQ4NC40NDcgMS4xMjguMjE4IDEuNjkxYTEuNjY1IDEuNjY1IDAgMDEtMi4xODguOTIzYy0uODU1LS4zNi0xLjI2LTEuMzU4LS45MDctMi4yMjhhMS42OCAxLjY4IDAgMDExLjMzLTEuMDM4Yy41OTMtLjA4IDEuMTgzLjE2OSAxLjU0Ny42NTJ6bTExLjU0NS00LjIyMWMuMzY4IDAgLjcwOC4yLjg5Mi41MjQuMTg0LjMyNC4xODQuNzI0IDAgMS4wNDhhMS4wMjYgMS4wMjYgMCAwMS0uODkyLjUyNGMtLjU2OCAwLTEuMDMtLjQ3LTEuMDMtMS4wNDggMC0uNTc5LjQ2Mi0xLjA0OCAxLjAzLTEuMDQ4em0tMTQuMzU4IDBjLjM2OCAwIC43MDcuMi44OTEuNTI0LjE4NC4zMjQuMTg0LjcyNCAwIDEuMDQ4YTEuMDI2IDEuMDI2IDAgMDEtLjg5MS41MjRjLS41NjkgMC0xLjAzLS40Ny0xLjAzLTEuMDQ4IDAtLjU3OS40NjEtMS4wNDggMS4wMy0xLjA0OHptMTAuMDMxLTEuNDc1Yy45MjUgMCAxLjY3NS43NjQgMS42NzUgMS43MDZzLS43NSAxLjcwNS0xLjY3NSAxLjcwNS0xLjY3NC0uNzYzLTEuNjc0LTEuNzA1YzAtLjk0Mi43NS0xLjcwNiAxLjY3NC0xLjcwNnptLTIuNjI2LS42ODRjLjM2Mi0uMDgyLjY1My0uMzU2Ljc2MS0uNzE4YTEuMDYyIDEuMDYyIDAgMDAtLjIzOC0xLjAyOCAxLjAxNyAxLjAxNyAwIDAwLS45OTYtLjI5NGMtLjU0Ny4xNC0uODgxLjctLjc1MiAxLjI1Ny4xMy41NTguNjc1LjkwNyAxLjIyNS43ODN6bTAgMTYuODc2Yy4zNTktLjA4Ny42NDQtLjM2Ljc1LS43MmExLjA2MiAxLjA2MiAwIDAwLS4yMzctMS4wMTkgMS4wMTggMS4wMTggMCAwMC0uOTg1LS4zMDEgMS4wMzcgMS4wMzcgMCAwMC0uNzYyLjcxN2MtLjEwOC4zNjEtLjAxNy43NTQuMjM5IDEuMDI4LjI0NS4yNjMuNjA2LjM3Ny45NTMuMzA1bC4wNDMtLjAxek0xNy4xOSAzLjVhLjYzMS42MzEgMCAwMC42MjgtLjY0YzAtLjM1NS0uMjc5LS42NC0uNjI4LS42NGEuNjMxLjYzMSAwIDAwLS42MjguNjRjMCAuMzU1LjI4LjY0LjYyOC42NHptLTEwLjM4IDBhLjYzMS42MzEgMCAwMC42MjgtLjY0YzAtLjM1NS0uMjgtLjY0LS42MjgtLjY0YS42MzEuNjMxIDAgMDAtLjYyOC42NGMwIC4zNTUuMjc5LjY0LjYyOC42NHptLTUuMTgyIDcuODUyYS42MzEuNjMxIDAgMDAtLjYyOC42NGMwIC4zNTQuMjguNjM5LjYyOC42MzlhLjYzLjYzIDAgMDAuNjI3LS42MDZsLjAwMS0uMDM0YS42Mi42MiAwIDAwLS42MjgtLjY0em01LjE4MiA5LjEzYS42MzEuNjMxIDAgMDAtLjYyOC42NGMwIC4zNTUuMjc5LjY0LjYyOC42NGEuNjMxLjYzMSAwIDAwLjYyOC0uNjRjMC0uMzU1LS4yOC0uNjQtLjYyOC0uNjR6bTEwLjM4LjAxOGEuNjMxLjYzMSAwIDAwLS42MjguNjRjMCAuMzU1LjI4LjY0LjYyOC42NGEuNjMxLjYzMSAwIDAwLjYyOC0uNjRjMC0uMzU1LS4yNzktLjY0LS42MjgtLjY0em01LjE4Mi05LjE0OGEuNjMxLjYzMSAwIDAwLS42MjguNjRjMCAuMzU0LjI3OS42MzkuNjI4LjYzOWEuNjMxLjYzMSAwIDAwLjYyOC0uNjRjMC0uMzU1LS4yOC0uNjQtLjYyOC0uNjR6bS0uMzg0LTQuOTkyYS4yNC4yNCAwIDAwLjI0NC0uMjQ5LjI0LjI0IDAgMDAtLjI0NC0uMjQ5LjI0LjI0IDAgMDAtLjI0NC4yNDljMCAuMTQyLjEyMi4yNDkuMjQ0LjI0OXpNMTEuOTkxLjQ5N2EuMjQuMjQgMCAwMC4yNDUtLjI0OEEuMjQuMjQgMCAwMDExLjk5IDBhLjI0LjI0IDAgMDAtLjI0NC4yNDljMCAuMTMzLjEwOC4yMzYuMjIzLjI0N2wuMDIxLjAwMXpNMi4wMTEgNi4zNmEuMjQuMjQgMCAwMC4yNDUtLjI0OS4yNC4yNCAwIDAwLS4yNDQtLjI0OS4yNC4yNCAwIDAwLS4yNDQuMjQ5LjI0LjI0IDAgMDAuMjQ0LjI0OXptMCAxMS4yNjNhLjI0LjI0IDAgMDAtLjI0My4yNDguMjQuMjQgMCAwMC4yNDQuMjQ5LjI0LjI0IDAgMDAuMjQ0LS4yNDkuMjUyLjI1MiAwIDAwLS4yNDQtLjI0OHptMTkuOTk1LS4wMThhLjI0LjI0IDAgMDAtLjI0NS4yNDguMjQuMjQgMCAwMC4yNDUuMjUuMjQuMjQgMCAwMC4yNDQtLjI1LjI1Mi4yNTIgMCAwMC0uMjQ0LS4yNDh6Ij48L3BhdGg%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+</p>
+
+**Also Living In**
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=FutureIsHereX&show_icons=true&hide_border=true&hide_title=true&theme=default&icon_color=6366F1&text_color=444444&bg_color=00000000" height="150" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FutureIsHereX&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=444444" height="150" alt="streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Say_hi-anytime-6366F1?style=for-the-badge&labelColor=0d1117" alt="hi" />
+
+</div>
